@@ -4,7 +4,7 @@ A hands-on learning project built while studying the [Model Context Protocol (MC
 
 This repo is the outcome of going through MCP from zero to hero: understanding the protocol, building a server with the Python SDK, testing it with MCP Inspector, and connecting it to Claude Desktop.
 
-> **Note:** This is a learning project, not a production tool. The production-grade version is being built separately — see [Calendar PA](#whats-next).
+> **Note:** This is a learning project, not a production tool. The production-grade version is being built separately — see [Calendar PA](https://github.com/Richardilemon/Calendar-PA).
 
 ---
 

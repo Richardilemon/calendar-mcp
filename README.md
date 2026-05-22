@@ -128,7 +128,7 @@ This repo was the learning ground. The production version is **Calendar PA** —
 - Telegram bot interface
 - Listed on the MCP registry
 
-Follow along: [your LinkedIn profile URL]
+Follow along: [https://github.com/Richardilemon]
 
 ---
 
